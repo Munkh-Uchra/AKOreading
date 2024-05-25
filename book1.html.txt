@@ -1,0 +1,34 @@
+book1.html
+<!DOCTYPE html>
+<html lang="mn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ном 1</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Нүүр</a></li>
+                <li><a href="index.html#about">Бидний тухай</a></li>
+                <li><a href="index.html#books">Номууд</a></li>
+                <li><a href="index.html#contact">Холбоо барих</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="book-content">
+        <h2>Ном 1</h2>
+        <p>Энд Ном 1-ийн дэлгэрэнгүй агуулгыг оруулна.</p>
+        <p>Номын хэсэг 1...</p>
+        <p>Номын хэсэг 2...</p>
+        <!-- Номын бусад хэсгүүдийг нэмээрэй -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Номын Сайт. Бүх эрх хуулиар хамгаалагдсан.</p>
+    </footer>
+</body>
+</html>
